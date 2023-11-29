@@ -9,12 +9,4 @@ This simple web application allows users to roll a specified number of dice and 
 3. Click the "Roll Dice" button.
 4. View the numeric results and corresponding dice images.
 
-### Examples
-
-![Example 1](diceRollerExample/Example1.jpg)
-
-![Example 2](diceRollerExample/Example2.jpg)
-
-![Example 3](diceRollerExample/Example3.jpg)
-
-## Enjoy rolling the dice! 🎲 {: style="color: green;"}
+## Enjoy rolling the dice! 🎲
