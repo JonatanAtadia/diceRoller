@@ -10,3 +10,7 @@ This simple web application allows users to roll a specified number of dice and 
 4. View the numeric results and corresponding dice images.
 
 ## Enjoy rolling the dice! 🎲
+
+## App
+
+![An example of how the application looks](exampleApp.png)
